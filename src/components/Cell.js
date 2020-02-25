@@ -8,7 +8,7 @@ const Cell = ({ type }) => {
       type={'L'}
       color={TETROMINOS['L'].color}
     >
-      Cell
+    
     </StyledCell>
   )
 }
